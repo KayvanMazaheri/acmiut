@@ -12,7 +12,7 @@ keywords:
 author: acmiut
 avatar: /images/acmiutlogo.jpg  # the avatar image in the sidebar
 # favicon: /images/favicon.ico # the favicon
-language: 
+language:
 timezone: Iran
 
 # URL
@@ -65,6 +65,9 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
+# Disqus
+disqus_shortname: acmiut
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
@@ -98,7 +101,7 @@ jsonContent:
     slug: false
     date: false
     updated: false
-    comments: false
+    comments: true
     path: false
     link: false
     permalink: true
