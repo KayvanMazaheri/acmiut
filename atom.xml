@@ -4,9 +4,9 @@
   <subtitle>Isfahan University of Technology ACM Student Chapter</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://acmiut.github.io/"/>
+  <link href="http://acmiut.ir/"/>
   <updated>2017-02-20T13:30:59.000Z</updated>
-  <id>http://acmiut.github.io/</id>
+  <id>http://acmiut.ir/</id>
   
   <author>
     <name>acmiut</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>ای سی ام داخلی سال ۹۵</title>
-    <link href="http://acmiut.github.io/2017/02/20/local-acm-2017/"/>
-    <id>http://acmiut.github.io/2017/02/20/local-acm-2017/</id>
+    <link href="http://acmiut.ir/2017/02/20/local-acm-2017/"/>
+    <id>http://acmiut.ir/2017/02/20/local-acm-2017/</id>
     <published>2017-02-20T13:18:10.000Z</published>
     <updated>2017-02-20T13:30:59.000Z</updated>
     
@@ -29,19 +29,19 @@
     
     </summary>
     
-      <category term="مسابقه" scheme="http://acmiut.github.io/categories/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87/"/>
+      <category term="مسابقه" scheme="http://acmiut.ir/categories/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87/"/>
     
     
-      <category term="مسابقه" scheme="http://acmiut.github.io/tags/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87/"/>
+      <category term="مسابقه" scheme="http://acmiut.ir/tags/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87/"/>
     
-      <category term="تفریح" scheme="http://acmiut.github.io/tags/%D8%AA%D9%81%D8%B1%DB%8C%D8%AD/"/>
+      <category term="تفریح" scheme="http://acmiut.ir/tags/%D8%AA%D9%81%D8%B1%DB%8C%D8%AD/"/>
     
   </entry>
   
   <entry>
     <title>سلام دنیا</title>
-    <link href="http://acmiut.github.io/2017/02/19/hello-world/"/>
-    <id>http://acmiut.github.io/2017/02/19/hello-world/</id>
+    <link href="http://acmiut.ir/2017/02/19/hello-world/"/>
+    <id>http://acmiut.ir/2017/02/19/hello-world/</id>
     <published>2017-02-19T19:38:32.000Z</published>
     <updated>2017-02-20T11:19:25.000Z</updated>
     
@@ -51,7 +51,7 @@
     
     </summary>
     
-      <category term="معرفی" scheme="http://acmiut.github.io/categories/%D9%85%D8%B9%D8%B1%D9%81%DB%8C/"/>
+      <category term="معرفی" scheme="http://acmiut.ir/categories/%D9%85%D8%B9%D8%B1%D9%81%DB%8C/"/>
     
     
   </entry>
