@@ -4,6 +4,9 @@
 - name: آرشیو
   slug: archives
   url: /archives
+- name: اعضا
+  slug: members
+  url: /members
 - name: درباره
   slug: about
   url: /about
