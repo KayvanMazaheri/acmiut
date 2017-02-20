@@ -5,14 +5,14 @@
 # Site
 title: ACM IUT
 subtitle: Isfahan University of Technology ACM Student Chapter
-description: 
+description:
 keywords:
   - A_KEYWORD
   - A_KEYWORD
 author: acmiut
 avatar: /images/acmiutlogo.jpg  # the avatar image in the sidebar
 # favicon: /images/favicon.ico # the favicon
-language: fa
+language: 
 timezone: Iran
 
 # URL
