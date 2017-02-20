@@ -1,4 +1,5 @@
 .m_widget{
+  direction: rtl;
     &:extend(.z-depth-1);
     background: @white;
     margin-bottom: @gap;
@@ -8,8 +9,8 @@
     .header{
         &:before{
             content: '#';
-            margin-left: -10px;
-            margin-right: 10px;
+            margin-left: 10px;
+            margin-right: -10px;
             color: @secondary-color;
         }
         font-size: 1.2rem;
@@ -18,16 +19,16 @@
 
     }
     .content{
-        border-top: 1px solid fade(@black,10%); 
+        border-top: 1px solid fade(@black,10%);
         padding: @gap/2 0;
     }
      ul.entry > li > a{
         padding: 0 @gap;
         line-height:@item-height;
-        height: @item-height; 
+        height: @item-height;
         display: flex;
         justify-content: space-between;
-        align-content: center; 
+        align-content: center;
         .name{
             flex:auto;
             &:extend(.txt-ellipsis);

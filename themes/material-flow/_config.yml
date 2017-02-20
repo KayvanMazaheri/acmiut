@@ -1,8 +1,8 @@
 # Search
-search: 
+search:
   enable: true
   service: hexo # google/hexo/algolia/azure/baidu
-  # google 
+  # google
   google_api_key:
   google_engine_id:
   # algolia
@@ -24,12 +24,12 @@ less:
 # use url, not username
 social:
 - slug: github
-  url: https://github.com/xxxx
+  url: https://github.com/acmiut
 - slug: twitter
-  url: https://twitter.com/xxxx
+  url: https://twitter.com/acmiut
 - slug: rss
   url: /atom.xml
 
 
 #  Add Google analytics tracking ID here
-# google_analytics: 
+# google_analytics:

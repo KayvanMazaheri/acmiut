@@ -90,7 +90,7 @@ var customSearch;
 	}
 	function setScrollReveal(){
 		const $reveal = $('.reveal');
-		if($reveal.length === 0) return; 
+		if($reveal.length === 0) return;
 		const sr = ScrollReveal();
 		sr.reveal('.reveal');
 	}
@@ -172,7 +172,7 @@ var customSearch;
 		setWaves();
 		setScrollReveal();
 		setTocToggle();
-		getHitokoto();
+		// getHitokoto();
 		getPicture();
 		$(".article .video-container").fitVids();
 
