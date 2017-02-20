@@ -7,8 +7,8 @@ title: ACM IUT
 subtitle: Isfahan University of Technology ACM Student Chapter
 description:
 keywords:
-  - A_KEYWORD
-  - A_KEYWORD
+  - acm
+  - iut
 author: acmiut
 avatar: /images/acmiutlogo.jpg  # the avatar image in the sidebar
 # favicon: /images/favicon.ico # the favicon
@@ -17,7 +17,7 @@ timezone: Iran
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://acmiut.github.io
+url: http://acmiut.ir
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -132,4 +132,5 @@ feed:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:KayvanMazaheri/blog.git
+  repo: git@github.com:acmiut/blog.git
+  breanch: gh-pages
