@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ACM IUT</title>
+  <subtitle>Isfahan University of Technology ACM Student Chapter</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://acmiut.github.io/"/>
+  <updated>2017-02-20T13:30:59.000Z</updated>
+  <id>http://acmiut.github.io/</id>
+  
+  <author>
+    <name>acmiut</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ای سی ام داخلی سال ۹۵</title>
+    <link href="http://acmiut.github.io/2017/02/20/local-acm-2017/"/>
+    <id>http://acmiut.github.io/2017/02/20/local-acm-2017/</id>
+    <published>2017-02-20T13:18:10.000Z</published>
+    <updated>2017-02-20T13:30:59.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;ای سی ام داخلی&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="مسابقه" scheme="http://acmiut.github.io/categories/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87/"/>
+    
+    
+      <category term="مسابقه" scheme="http://acmiut.github.io/tags/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87/"/>
+    
+      <category term="تفریح" scheme="http://acmiut.github.io/tags/%D8%AA%D9%81%D8%B1%DB%8C%D8%AD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>سلام دنیا</title>
+    <link href="http://acmiut.github.io/2017/02/19/hello-world/"/>
+    <id>http://acmiut.github.io/2017/02/19/hello-world/</id>
+    <published>2017-02-19T19:38:32.000Z</published>
+    <updated>2017-02-20T11:19:25.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;مقدمه&quot;&gt;&lt;a href=&quot;#مقدمه&quot; class=&quot;headerlink&quot; title=&quot;مقدمه&quot;&gt;&lt;/a&gt;مقدمه&lt;/h1&gt;&lt;h2 id=&quot;تاریخچه&quot;&gt;&lt;a href=&quot;#تاریخچه&quot; class=&quot;headerlink&quot; title=
+    
+    </summary>
+    
+      <category term="معرفی" scheme="http://acmiut.github.io/categories/%D9%85%D8%B9%D8%B1%D9%81%DB%8C/"/>
+    
+    
+  </entry>
+  
+</feed>
