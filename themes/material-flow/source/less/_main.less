@@ -2,6 +2,7 @@
     flex: 1 1 auto;
     width:~"calc(100% - @{side-width} - @{gap})"; //fix for firefox
     .post-list {
+        direction: rtl;
         position: relative;
         margin: 0px auto;
         -webkit-columns: 400px;
@@ -62,6 +63,8 @@
         column-break-inside: avoid;
         page-break-inside: avoid;
         break-inside: avoid-column;
+        // direction: ltr;
+        // unicode-bidi: bidi-override;
     }
     .mobile-post() {
         .post {
