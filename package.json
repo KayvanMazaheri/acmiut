@@ -1,10 +1,25 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "acmiut-site",
+  "version": "0.1.0",
   "private": true,
   "hexo": {
     "version": "3.2.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acmiut/blog.git"
+  },
+  "keywords": [
+    "acmiut",
+    "acm",
+    "iut"
+  ],
+  "author": "Kayvan Mazaheri <KayvanMazaheri@GMail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acmiut/blog/issues"
+  },
+  "homepage": "https://github.com/acmiut/blog#readme",
   "dependencies": {
     "hexo": "^3.2.0",
     "hexo-autoprefixer": "^1.0.0",
