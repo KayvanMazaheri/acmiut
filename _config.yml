@@ -132,4 +132,4 @@ feed:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-    repo: git@github.com:KayvanMazaheri/blog.git
+  repo: git@github.com:KayvanMazaheri/blog.git
