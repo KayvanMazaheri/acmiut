@@ -17,10 +17,10 @@
 
     <% if (post.excerpt) { %>
 	  <div class="readmore">
-      <a href="<%- url_for(post.path) %>">Read More</a>
+      <a href="<%- url_for(post.path) %>">بیشتر بخوانید</a>
     </div>
     <% } %>
-    
+
     <% if (post.tags && post.tags.length) { %>
 	  <div class="full-width auto-padding tags">
       <% post.tags.each(function(item){ %>
