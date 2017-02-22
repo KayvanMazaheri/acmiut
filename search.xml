@@ -4,6 +4,41 @@
   
     
     <entry>
+      <title><![CDATA[راه حل سوالات مسابقه ACM داخلی سال ۹۵]]></title>
+      <url>http://acmiut.ir/2017/02/20/local-acm-2017-editorial/</url>
+      <content type="html"><![CDATA[<h1 id="مقدمه"><a href="#مقدمه" class="headerlink" title="مقدمه"></a>مقدمه</h1><p>چهل و ششمین دوره مسابقات برنامه نویسی ACM داخلی دانشگاه صنعتی اصفهان با حضور ۲۰ تیم به پایان رسید.<br>در ادامه به بررسی سوالات و راه حل آن ها می‌پردازیم.<br><a id="more"></a></p>
+<h1 id="سوالات"><a href="#سوالات" class="headerlink" title="سوالات"></a>سوالات</h1>
+
+	<div class="row">
+    <embed src="local-acm-2017-problems.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
+<h1 id="راه-حل"><a href="#راه-حل" class="headerlink" title="راه حل"></a>راه حل</h1><h2 id="سوال-Doctors-Office"><a href="#سوال-Doctors-Office" class="headerlink" title="سوال Doctors Office"></a>سوال Doctors Office</h2><h2 id="سوال-ZamZam-Man"><a href="#سوال-ZamZam-Man" class="headerlink" title="سوال ZamZam Man"></a>سوال ZamZam Man</h2><h3 id="کد"><a href="#کد" class="headerlink" title="کد"></a>کد</h3><p>از اینجا دانلود کنید: <a href="/2017/02/20/local-acm-2017-editorial/solutions/b.cpp" title="CPP">CPP</a><br><script src="//gist.github.com/173573fdef68079bd252bffdff28ce15.js"></script></p>
+<h2 id="سوال-Easy-GCD"><a href="#سوال-Easy-GCD" class="headerlink" title="سوال Easy GCD"></a>سوال Easy GCD</h2><h2 id="سوال-Alireza’s-Continues-Hours-of-Sleeping"><a href="#سوال-Alireza’s-Continues-Hours-of-Sleeping" class="headerlink" title="سوال Alireza’s Continues Hours of Sleeping"></a>سوال Alireza’s Continues Hours of Sleeping</h2><h2 id="سوال-Sorry-I-didn’t-get-that"><a href="#سوال-Sorry-I-didn’t-get-that" class="headerlink" title="سوال Sorry! I didn’t get that!"></a>سوال Sorry! I didn’t get that!</h2><h3 id="کد-1"><a href="#کد-1" class="headerlink" title="کد"></a>کد</h3><script src="//gist.github.com/f99c7f2768362abc46b249023c79fb10.js"></script>
+<h2 id="سوال-ACM-CraftLock-Manufacture"><a href="#سوال-ACM-CraftLock-Manufacture" class="headerlink" title="سوال ACM CraftLock Manufacture"></a>سوال ACM CraftLock Manufacture</h2><h2 id="سوال-San-i’s-Azadi-Tower-Student-are-Legos"><a href="#سوال-San-i’s-Azadi-Tower-Student-are-Legos" class="headerlink" title="سوال San@i’s Azadi Tower - Student are Legos"></a>سوال San@i’s Azadi Tower - Student are Legos</h2><h2 id="سوال-Beehive"><a href="#سوال-Beehive" class="headerlink" title="سوال Beehive"></a>سوال Beehive</h2><h2 id="سوال-Number-of-Ways"><a href="#سوال-Number-of-Ways" class="headerlink" title="سوال Number of Ways"></a>سوال Number of Ways</h2><h2 id="سوال-Find-me-if-You-Can"><a href="#سوال-Find-me-if-You-Can" class="headerlink" title="سوال Find me if You Can"></a>سوال Find me if You Can</h2><h3 id="کد-2"><a href="#کد-2" class="headerlink" title="کد"></a>کد</h3><script src="//gist.github.com/16e3ded5f68e698ac98c2889ef474982.js"></script>]]></content>
+      
+        <categories>
+            
+            <category> آموزشی </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> مسابقه </tag>
+            
+            <tag> راه حل </tag>
+            
+            <tag> آموزشی </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[ای سی ام داخلی سال ۹۵]]></title>
       <url>http://acmiut.ir/2017/02/20/local-acm-2017/</url>
       <content type="html"><![CDATA[<p>ای سی ام داخلی</p>
